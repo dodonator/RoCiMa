@@ -19,12 +19,12 @@ Enigma and other rotor cipher maschines
 In manchen Codedateien wird auf Anhänge verwiesen, welche im Ordner "Anhang" zu finden sind.
 
 #### TODO:
-[HISTORY]   Veränderungsmöglichkeit der Walzenlage durch den Benutzer 
-[HISTORY]   Eingabe von Buchstaben
-            Möglichkeit zufallsgenerierter Walzenanordnungen (siehe Anhang 1)
-[HISTORY]   Möglichkeit die Startposition der Walzen festzulegen
-[NoHistory] Variable Walzenzahl
-[DEBUG]     Häufigkeitsanalyse des Geheimtextes
-[DEBUG]     Speichermöglichkeit der Walzen
+* [HISTORY]   Veränderungsmöglichkeit der Walzenlage durch den Benutzer 
+* [HISTORY]   Eingabe von Buchstaben
+*             Möglichkeit zufallsgenerierter Walzenanordnungen (siehe Anhang 1)
+* [HISTORY]   Möglichkeit die Startposition der Walzen festzulegen
+* [NoHistory] Variable Walzenzahl
+* [DEBUG]     Häufigkeitsanalyse des Geheimtextes
+* [DEBUG]     Speichermöglichkeit der Walzen
 
 
