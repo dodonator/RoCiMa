@@ -4,7 +4,7 @@ RoCiMa
 Enigma and other rotor cipher maschines
 
 Projektinterne Konventionen:
-==========
+====
 1. [DEBUG] kennzeichnet Features, die für die Entwicklung bestimmt sind
 2. [HISTORY] kennzeichnet Features, die der historischen Vorlage (Enigma) entsprechen.
 3. [NoHistory] kennzeichnet Features, die nicht der historischen Vorlage entsprechen.
