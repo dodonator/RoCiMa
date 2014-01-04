@@ -3,7 +3,7 @@ RoCiMa
 
 Enigma and other rotor cipher maschines
 
-#### Allgemeine Informationen:
+#### Plädoyer:
 Die Rotor Chiffriermaschienen repräsentieren den technischen Stand mechanischer Verschlüsselungsaperaturen, zur Zeit
 des zweiten Weltkriegs. Die Enigma ist wohl der bekannteste Vertreter dieser Art. Alle RCMs basieren auf Walzen, durch
 die Drähte verlaufen und so eine Tastatur mit einem Lampenfeld oder wahlweise einem Fernschreiber verbanden. Das Geheim-
