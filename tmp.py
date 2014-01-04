@@ -6,15 +6,6 @@
 # oR: ohne Reflektor
 
 
-# TODO 
-# * [HISTORY]   Veränderungsmöglichkeit der Walzenlage durch den Benutzer 
-# * [HISTORY]   Eingabe von Buchstaben
-# *             Möglichkeit zufallsgenerierter Walzenanordnungen (siehe Anhang 1)
-# * [HISTORY]   Möglichkeit die Startposition der Walzen festzulegen
-# * [NoHistory] Variable Walzenzahl
-# * [DEBUG]     Häufigkeitsanalyse des Geheimtextes
-# * [DEBUG]     Speichermöglichkeit der Walzen
-
 def walzeDrehen(walze):
 	'''Die Funktion walzeDrehen verschiebt jedes Element eines Arrays um eine Stelle nach rechts'''
 	tmp = walze[1:len(walze)]
@@ -75,13 +66,4 @@ for counter in xrange(len(klartext)):
 	counterW0 += 1
 	
 print geheimtext
-	
-	
-###########################################################################################################################
-# Anhang 1:
-# Durch die Anforderung, dass die Geheimhaltung eines kryptographischen Alghorithmus keinen kritischen Faktor,
-# der Sicherheit des Algorithmus betreffend, sein darf, darf die Geheimhaltung des Aufbaus der Enigma keinen Einfluss
-# auf die Sicherheit des kryptographischen Algorithmus haben, weshalb die Walzen bekannt sein dürfen. Natürlich verstärkt
-# die Geheimhaltung die Sicherheit, darf aber nicht ausschlaggebend sein.
-###########################################################################################################################
 		 

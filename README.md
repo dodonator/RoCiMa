@@ -15,5 +15,16 @@ Enigma and other rotor cipher maschines
 7. Wird eine for-Schleife zum zählen verwendet, so heißt die Zählvariable "counter".
 8. Kommentare werden mit "#" erstellt (Ausnahme: Docstrings!)
 
+#### Anhänge:
+In manchen Codedateien wird auf Anhänge verwiesen, welche im Ordner "Anhang" zu finden sind.
+
+#### TODO:
+[HISTORY]   Veränderungsmöglichkeit der Walzenlage durch den Benutzer 
+[HISTORY]   Eingabe von Buchstaben
+            Möglichkeit zufallsgenerierter Walzenanordnungen (siehe Anhang 1)
+[HISTORY]   Möglichkeit die Startposition der Walzen festzulegen
+[NoHistory] Variable Walzenzahl
+[DEBUG]     Häufigkeitsanalyse des Geheimtextes
+[DEBUG]     Speichermöglichkeit der Walzen
 
 
