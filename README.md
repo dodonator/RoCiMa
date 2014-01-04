@@ -15,8 +15,9 @@ Enigma and other rotor cipher maschines
 7. Wird eine for-Schleife zum zählen verwendet, so heißt die Zählvariable "counter".
 8. Kommentare werden mit "#" erstellt (Ausnahme: Docstrings!)
 
-###### Dateinamenkonvention:
+##### Dateinamenkonvention:
 Die komischen Dateinamen kommen so zusammen:
+
 Kürzel des historischen Vorbilds.W+Walzenzahl.Steckerbrett?.Reflektor?.py 
 
 #### Anhänge:
