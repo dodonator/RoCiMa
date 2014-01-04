@@ -18,7 +18,7 @@ Enigma and other rotor cipher maschines
 ##### Dateinamenkonvention:
 Die komischen Dateinamen kommen so zusammen:
 
-Kürzel des historischen Vorbilds.W+Walzenzahl.Steckerbrett?.Reflektor?.py 
+> Kürzel des historischen Vorbilds.W+Walzenzahl.Steckerbrett?.Reflektor?.py 
 
 #### Anhänge:
 In manchen Codedateien wird auf Anhänge verwiesen, welche im Ordner "Anhang" zu finden sind.
