@@ -3,6 +3,24 @@ RoCiMa
 
 Enigma and other rotor cipher maschines
 
+#### Allgemeine Informationen:
+Die Rotor Chiffriermaschienen repräsentieren den technischen Stand mechanischer Verschlüsselungsaperaturen, zur Zeit
+des zweiten Weltkriegs. Die Enigma ist wohl der bekannteste Vertreter dieser Art. Alle RCMs basieren auf Walzen, durch
+die Drähte verlaufen und so eine Tastatur mit einem Lampenfeld oder wahlweise einem Fernschreiber verbanden. Das Geheim-
+niss bestand in der genauen Verdrahtung der Walzen, der Lage der verschiedenen Walzen in der Maschiene, der Anfangsposition
+und dem Steckerbrett. Die Enigma wurde durch Alan Turing, einem britischen Kryptoanalyst, der für das GCHQ tätig war, nach
+Vorarbeit durch den polnischen Geheimdienst gebrochen. Für die polnische Vorarbeit, war unteranderm ein deutscher Spion
+verantwortlich, der den Polen Codebücher über mehrere Monate zukommen ließ. Turing erkannte Schwachstellen in der Benutzung
+der Maschiene durch die Nationalsozialisten und nutzte diese um einen Anhaltspunkt zu finden um mithilfe primitiver
+"Computer" das deutsche Standbein der Kriegskommunikation zu brechen. Seine Vorgesetzten hielten diese Errungenschaft lange
+Zeit geheim um störungsfrei deutsche Kommunuikation abhören zu können. Der Bruch dieses Verschlüsselungssystem wird gemeinhin
+als wichtiger Faktor für den Ausgang des Krieges gesehen. Die durch Turing erfolgte Entschlüsselung ist allerdings eher auf
+Bedienungsfehler, wie Wiederholungen, einfache Schlüssel und statische Nachrichteninhalte sowie auf eine geringe Schlüsselzahl
+zurückzuführen, als auf Unsicherheit des Systems. Durch Alan Turings Arbeit besitzen wir heutzutage jedoch leistungsfähige
+Computer, die in der Lage sind, die Komplexität der Enigma zu verhundertfachen und die Walzenanzahl zu verzehnfachen.
+Insofern ist die Enigma weiterhin ein gutes Verschlüsselungssystem, auch wenn es in den Zeiten asymmetrischer Kryptographie
+eher symbolischen Wert hat.
+
 #### Projektinterne Konventionen:
 1. [DEBUG] kennzeichnet Features, die für die Entwicklung bestimmt sind
 2. [HISTORY] kennzeichnet Features, die der historischen Vorlage (Enigma) entsprechen.

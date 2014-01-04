@@ -46,6 +46,7 @@ for i in xrange(len(klartext)):
 		counterW4 += 1
 		counterW3 = 0
 	if counterW4 > 8:
+		w4 = walzeDrehen(w4)
 		counterW4 = 0
 	
 	
